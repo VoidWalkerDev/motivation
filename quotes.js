@@ -1960,7 +1960,7 @@ quotes.push(
         ],
         tags: ["strategy", "action", "focus", "discipline", "high-energy", "mental-strength", "adaptability", "sun-tzu"]
     }
-,)
+);
 
 // Export for Node.js environments
 if (typeof module !== 'undefined' && module.exports) {
