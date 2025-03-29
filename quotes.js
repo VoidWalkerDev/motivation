@@ -61,7 +61,7 @@ const quotes = [
         keyPoints: [
             "Practice mindfulness or meditation daily to clear your mind.",
             "Visualize overcoming specific academic challenges.",
-            "Turn mistakes into learning opportunities by reviewing errors thoroughly."
+            "Turn mistakes into learning opportunities by  reviewing errors thoroughly."
         ],
         tags: ['mental-strength', 'focus', 'positive-mindset']
     },
