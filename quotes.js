@@ -1075,12 +1075,12 @@ const quotes = [
     ],
     tags: ['consistency', 'discipline', 'long-term-thinking']
 }
-];
+
 
 // Adding powerful quotes from famous books with brutal motivation
-quotes.push(
+
     // Strategic Warfare
-    {
+    ,{
         text: "Every battle is won before it is fought. ~ The Art of War",
         meaning: "Success in exams is determined by your preparation, not by what you do during the test itself.",
         keyPoints: [
@@ -1702,14 +1702,14 @@ quotes.push(
         ],
         tags: ['mental-strength', 'growth', 'positive-mindset']
     }
-);
+
 
 // ==============================================
 // === NEW HIGH-ENERGY / STRATEGIC QUOTES ===
 // ==============================================
 
-quotes.push(
-    {
+
+    ,{
         text: "Victory is reserved for those willing to pay its price in sweat, discipline, and sacrifice. Hesitation is defeat.",
         meaning: "True success isn't handed out; it's earned through relentless hard work and unwavering commitment. Delaying action or doubting yourself is equivalent to accepting failure before you even begin.",
         keyPoints: [
@@ -1960,7 +1960,7 @@ quotes.push(
         ],
         tags: ["strategy", "action", "focus", "discipline", "high-energy", "mental-strength", "adaptability", "sun-tzu"]
     }
-);
+];
 
 // Export for Node.js environments
 if (typeof module !== 'undefined' && module.exports) {
