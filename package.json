@@ -15,8 +15,8 @@
      ],
      "repository": {
        "type": "git",
-       "url": "git+https://github.com/your-github-username/motivational-quotes-library.git"
+       "url": "git+https://github.com/VoidWalkerDev/motivation.git"
      },
-     "author": "Your Name",
+     "author": "VoidWalkerDev",
      "license": "MIT"
    }
