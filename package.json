@@ -1,0 +1,22 @@
+   {
+     "name": "motivation",
+     "version": "1.0.0",
+     "description": "A collection of motivational quotes for students",
+     "main": "quotes.js",
+     "files": [
+       "quotes.js",
+       "quotes-cdn.js",
+       "quotes-export.js"
+     ],
+     "keywords": [
+       "quotes",
+       "motivation",
+       "education"
+     ],
+     "repository": {
+       "type": "git",
+       "url": "git+https://github.com/your-github-username/motivational-quotes-library.git"
+     },
+     "author": "Your Name",
+     "license": "MIT"
+   }
